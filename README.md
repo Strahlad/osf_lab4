@@ -10,7 +10,7 @@
 ## This is 100% NOT tim typing this.
 # WANDA WOOHOO
 #Rogers was probaly here
-
+# Gedaliah is Present!
 Dara is finally here after 2 days
 =======
 hey look, there is text in here! Written by Adam!
