@@ -11,7 +11,7 @@
 # WANDA WOOHOO
 #Rogers was probaly here
 
-##Dara is finally here after 2 days
+Dara is finally here after 2 days
 =======
 hey look, there is text in here! Written by Adam!
 >>>>>>> 6208dbe (Create First Readme)
