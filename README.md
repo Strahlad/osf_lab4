@@ -15,4 +15,5 @@ Dara is finally here after 2 days
 ### Riley, I think i'm here...
 =======
 hey look, there is text in here! Written by Adam!
+#Extremely late but Jesse is also here
 >>>>>>> 6208dbe (Create First Readme)
